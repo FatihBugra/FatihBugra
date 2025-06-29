@@ -1,4 +1,4 @@
-### Hi there 👋,I'm Fatih Buğra Durmuş
+### Hi there 👋, I'm Fatih Buğra Durmuş
 #### Game Developer
 🔭 My interest is in game programming.<br>📫 How to reach me: fatihbugradurmus@gmail.com<br>
 
